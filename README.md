@@ -42,14 +42,13 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras, 
 
 ## 📈 Estadísticas de GitHub
 
-> 💡 **Nota:** Recuerda reemplazar `TU_USUARIO` con tu nombre de usuario real de GitHub en los siguientes enlaces.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorPrC11&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Lenguajes principales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPrC11&layout=compact&theme=radical&hide_border=true" alt="Lenguajes principales" />
 </p>
 
 ---
