@@ -12,8 +12,7 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras, 
 * 🐍 **Python**: Análisis de datos, automatización y scripting.
 * ⚡ **JavaScript / 🟦 TypeScript**: Desarrollo frontend y backend moderno.
 * 🔵 **Dart**: Creación de aplicaciones móviles de alto rendimiento con Flutter.
-* 🍏 *Swift*: En proceso de aprendizaje para el ecosistema iOS.
-
+* **Go**: En proceso de aprendizaje
 ### 📱 Desarrollo Web y Móvil
 * 📱 **Flutter**: Desarrollo móvil multiplataforma.
 * ⚛️ **React / React Native**: Interfaces de usuario web y apps móviles.
@@ -36,6 +35,6 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras, 
 * 🐳 **Docker**: Contenerización y entornos de desarrollo estandarizados.
 * 🎮 **Unity**: Desarrollo de videojuegos.
 * 🖥️ **Electron**: Desarrollo de aplicaciones de escritorio.
-* 🛠️ **Herramientas diarias**: VMware, emuladores de Xcode y Android Studio, Office 365, Claude code.
+* 🛠️ **Herramientas diarias**: VMware, emuladores de Xcode y Android Studio, Office 365, Claude code, Codex.
 
 ---
