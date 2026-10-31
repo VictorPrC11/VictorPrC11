@@ -20,7 +20,7 @@ productos de alta calidad.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=es&hide_rank=true"
+    src="https://github-readme-stats.vercel.app/api?username=VictorPrC11O&show_icons=true&theme=tokyonight&hide_border=true&locale=es&hide_rank=true"
     alt="Estadísticas de GitHub de Victor Perez"
     width="480"
   />
@@ -30,7 +30,7 @@ productos de alta calidad.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=es&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPrC11&layout=compact&theme=tokyonight&hide_border=true&locale=es&langs_count=8"
     alt="Lenguajes más usados en mis repositorios públicos"
     width="400"
   />
@@ -41,7 +41,7 @@ productos de alta calidad.
 
 ### 📈 Actividad reciente
 
-![Gráfica de actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true)
+![Gráfica de actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=VictorPrC11&theme=tokyo-night&hide_border=true)
 
 ---
 
